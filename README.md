@@ -42,4 +42,4 @@ A Headless WordPress and Angular 18 based website for a Martial Arts dojo, featu
 
 ## Deployment
 - Build the project: `ng build --prod`.
-- Deploy to Google Cloud App Engine or Firebase Hosting.
+- Deploy to Google Cloud Storage and enable CDN.
